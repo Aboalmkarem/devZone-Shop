@@ -96,7 +96,7 @@ export default class App extends Component {
                     changeTheme={this.changeTheme}
                     isDark={this.state.isDark}
                 ></Nav>
-                <header className="bg-body-secondary d-flex flex-column justify-content-center">
+                <header className="bg-body-secondary d-flex flex-column justify-content-center align-items-center">
                   <h1 className="text-body-emphasis text-center pt-5">Welcome to Dev Zone Shop</h1>
                     <Home
                         products={this.state.products}
