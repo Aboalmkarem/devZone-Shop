@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/devZone-Shop/static/css/main.cfcc3931.css",
+    "main.js": "/devZone-Shop/static/js/main.a58ca09b.js",
+    "static/js/453.e08103a1.chunk.js": "/devZone-Shop/static/js/453.e08103a1.chunk.js",
+    "static/media/1.jpg": "/devZone-Shop/static/media/1.f24ca031369dc01f03e4.jpg",
+    "index.html": "/devZone-Shop/index.html",
+    "main.cfcc3931.css.map": "/devZone-Shop/static/css/main.cfcc3931.css.map",
+    "main.a58ca09b.js.map": "/devZone-Shop/static/js/main.a58ca09b.js.map",
+    "453.e08103a1.chunk.js.map": "/devZone-Shop/static/js/453.e08103a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfcc3931.css",
+    "static/js/main.a58ca09b.js"
+  ]
+}
